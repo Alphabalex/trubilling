@@ -174,8 +174,12 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 70px;
   margin-right: 8px;
+}
+
+.footer-logo {
+  max-height: 70px;
 }
 
 .header .logo h1 {
@@ -2004,7 +2008,7 @@ section,
   transform: translateY(-2px);
 }
 
-.text-primary{
+.text-primary {
   color: var(--accent-color) !important;
 }
 
